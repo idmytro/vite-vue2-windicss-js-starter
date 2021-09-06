@@ -6,7 +6,7 @@ import NotFound from "@/views/NotFound.vue";
 
 Vue.use(VueRouter);
 
-export const routes: RouteConfig[] = [
+export const routes = [
   {
     path: "/",
     name: "Home",
