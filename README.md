@@ -1,11 +1,13 @@
 <h1 align="center">Vite ⚡ - Vue 2 starter template</h1>
 
+Forked from [lstoeferle/vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter)
+
 <p align="center">
   Create a Vue 2 application bundled by the lightning fast build tool <a href="https://github.com/vitejs/vite">Vite</a>
 </p>
 
 <p align="center">
- <a href="https://vite-vue2-starter.netlify.app"> ✨ Live Demo</a>
+ <a href="https://vite-vue2-starter.netlify.app"> ✨ Original (lstoeferle/vite-vue2-windicss-starter) Live Demo</a>
 </p>
 
 # 🔥 Features
