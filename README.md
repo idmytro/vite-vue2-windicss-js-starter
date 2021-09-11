@@ -15,9 +15,9 @@
 * 📦 [Components auto importing](https://github.com/antfu/vite-plugin-components)
 * 🎨 [Windi CSS](https://github.com/windicss/vite-plugin-windicss) - on-demand Tailwind CSS with speed and dark mode
 * 😃 [Icons as Vue components](https://github.com/antfu/vite-plugin-icons) - powered by [Iconify](https://github.com/iconify/iconify)
-* 🧰 [VueUse](https://github.com/vueuse/vueuse) - collection of essential Vue Composition Utilities 
-* 🔍 ESLint + Prettier 
-* 🦾 Typescript
+* 🧰 [VueUse](https://github.com/vueuse/vueuse) - collection of essential Vue Composition Utilities
+* 🔍 ESLint + Prettier
+
 # 📦 Vite plugins
 
 * [`vite-plugin-vue2`](https://github.com/underfin/vite-plugin-vue2) -
@@ -27,13 +27,13 @@
 * [`vite-plugin-windicss`](https://github.com/windicss/vite-plugin-windicss) -
   WindiCSS/TailwindCSS for Vite
 * [`vite-plugin-icons`](https://github.com/antfu/vite-plugin-icons) -
-  Access thousands of icons as Vue components in Vite 
+  Access thousands of icons as Vue components in Vite
 
 # 🚀 Getting started
 
 ## GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/lstoeferle/vite-vue2-windicss-starter/generate)
+[Create a repo from this template on GitHub](https://github.com/idmytro/vite-vue2-windicss-starter/generate)
 
 When you use this template, try follow the checklist to update your info properly
 
@@ -43,12 +43,12 @@ When you use this template, try follow the checklist to update your info properl
 - [ ] Change the favicon in `public`
 - [ ] Clean up the README(s) and remove routes
 
-## Clone 
+## Clone
 
 If you prefer to do it manually with a cleaner git history
 
 ```bash
-npx degit lstoeferle/vite-vue2-windicss-starter my-vite-vue2-app
+npx degit idmytro/vite-vue2-windicss-starter#no-ts my-vite-vue2-app
 cd my-vite-vue2-app
 npm i
 ```
@@ -63,7 +63,7 @@ Just run and visit [http://localhost:8080](http://localhost:8080)
 npm run dev
 ```
 
-## Build 
+## Build
 
 To build the App, run
 
