@@ -50,7 +50,7 @@ When you use this template, try follow the checklist to update your info properl
 If you prefer to do it manually with a cleaner git history
 
 ```bash
-npx degit idmytro/vite-vue2-windicss-js-starter#no-ts my-vite-vue2-app
+npx degit idmytro/vite-vue2-windicss-js-starter my-vite-vue2-app
 cd my-vite-vue2-app
 npm i
 ```
